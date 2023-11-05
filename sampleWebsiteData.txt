@@ -1,0 +1,387 @@
+https://www.cs.wmich.edu/gupta/teaching/cs5950/5950F23PGSweb/TopicsCovered%20ProgGradStu.html
+<pageBody>
+CS 5950 -- Programming for Graduate Students-- Fall 2023
+Instructor:
+     Dr. Ajay K. Gupta                                                                       Follow @AGuptaKalamazoo
+Topics Covered             Tweet #CS5310
+Office hours, Learning Assistant and Tutoring help - also see syllabus
+08/31/2023
+	•	Syllabus please go through it before 9/5/23 class, be ready with questions in class on Tuesday, 9/5/23.
+	•	Github, Canvas and MSTeams course enrollment info will be available from your CS5950 eLearning - enroll by next week.
+	•	The NIST link http://www.nist.gov/dads/ has the definition of most of the common problems. Please browse.
+	•	Pseudo-code is a good way to express your preliminary solutions, here are some resources on expressing your algorithms in pseudo-code
+	◦	Pseudocode basics from Michael Kelly, CCRI (pdf file - pseudocode basics)
+	◦	Pseudocode tutorial from Tim Bell, University of Canterbury (pdf file - Pseudo-Code Tutorial)
+	◦	Wiki on PseudoCode
+09/05/2023
+	•	Read chapters 2 (Basic Data Structures), 5 (Priority Queues and Heaps) and 6 (Hash Tables) of the GT textbook, especially if you can't easily (and readily) recall material from your undergraduate studies on basic data structures. I will not be covering this material, but will assume that you are quite familiar with it. I may also ask questions on these in quiz/exam. Basic understanding (design, implementation, and time & space complexities of the various operations) of stacks, queues, linked lists, trees, priority queues, heaps, dictionaries and hash maps is assumed from your undergraduate study so far.
+	•	If you are not familiar with github - https://www.youtube.com/watch?v=RGOj5yH7evk Youtube video by freeCodeCamp.org is a good start.
+	•	first project onsearch and sorting in various data structures
+	•	searching
+	◦	arrays - linear vs binary search
+09/07/2023
+	•	PA1 (LinkedLists vs Arrays) prelim discussion (see your elearning for the assignment description)
+	•	Searching
+	◦	linked lists
+	◦	hash tables
+	◦	Maps
+09/12/2023
+	•	github classroom setup
+	•	PA0 - getting started with git & github
+	•	searching with insertion & deletion in linked lists and hash tables
+09/14/2023
+	•	Sorting
+	◦	insertion, selection, bubble
+	◦	shell sort - shellsort video by Gikific, shellsort video by Jenny
+	◦	merge sort
+	◦	quick sort
+	◦	radix / bucket sort
+	◦	heap sort
+	◦	bst sort
+	•	sorting-algorithms.com has a very good visual comparison of various sorting algorithms under different conditions
+	•	sorting algorithms animation -- in the style of Mario Bros.
+	•	
+	•	review search trees (at least binary search trees, BST) and priority queues (at least heaps) - will be needed soon
+09/19/2023
+	•	IA1
+	•	Sorting contd.
+	◦	quick sort
+	◦	radix / bucket sort
+	◦	heap sort - - postponed until tree based data structures reviewed
+	◦	bst sort
+	•	review search trees (at least binary search trees, BST) and priority queues (at least heaps) - will be needed soon
+09/21/2023
+	•	PA2 discussion - search engine, tokenization, inverted index
+	•	PA1 due date postponed to 9/23/2023
+09/26/2023
+	•	IA2 - tree review
+	•	trees: size balanced, height balanced, 2-3 trees, B-trees, red-black trees, ...
+	•	Priority queues (heaps)
+09/28/2023
+	•	Quiz1/IA3?
+	•	trees: size balanced, height balanced, 2-3 trees, B-trees, red-black trees, ...
+	•	Priority queues (heaps)
+	•	heap sort
+	•	Search trees based indexes
+	•	bst sort
+ 
+10/19/2023
+	•	no class - Fall break (Oct 18-20, 2023)
+	•	Enjoy the break
+ 
+11/23/2023
+	•	Happy Thanksgiving - no class
+ 
+12/05/2023 - Tuesday
+	•	Senior Design presentations from 9:00am-12:00noon in D202, attend and encourage your peers / seniors - may be no class if conflict due to senior design presentations
+	•	
+	•	a summary of all sections from GT book that you should have read and completed their excercises
+	•	No late submissions of homeworks etc accepted after 11:30pm today.
+12/07/2023 - Thursday
+	•	last class - Mulligans
+	•	
+Good Luck and have a wonderful winter break!
+ 
+
+General Instructions on submitting your homeworks.
+	•	For assignments, submit a SINGLE zipped file of your source codes, scripts (to run your program if any) and a brief report along with a copy of a couple of sample executions of your solution to the class's Elearning. No need to say, but you should be using good conventions and programming practices in developing your programs [just in case you forgot, refresh them from some of the coding conventions etc links provided on the TopicsCovered page.]
+	•	Use <hw#cs5950_yourlastname_mmddyy.{zip,ppt,doc,tex}> as the naming convention for your zipped, ppt, MS-Word, or LaTex files when submitting on Elearning. Replace '#' with the appropriate homework number.
+	•	There will be significant point penalties for not following the naming convention above, good coding practices, submitting a different format of archive file or if your program does not run. Make sure it is a .zip and NOT another format (no .rar, .tar, .tar.gz, etc)
+	•	Beginning of the first file should clearly identify you, the class,  submission date, and the main goals of the homework / programming assignment. Also add credit to others if you had to resort to looking up the solution elsewhere. Finally add one of the sentences: “ I give permission to the instructor to share my solution(s) with the class." or “ I do NOT give permission to the instructor to share my solution(s) with the class."
+	•	
+	•	Attach Plagiarism-free declaration.
+Any student may be asked to show and discuss his or her solution in class, so be ready with your presentation.
+	•	sample homework solutions (programs and reports) from Fall16 students(partly annotated) -- borrow good practices, not code!!
+ 
+
+See Useful Links page
+ 
+
+ 
+Last Updated: September 26, 2023 17:45
+Ajay Gupta's Web Home
+<endPageBody>
+
+
+
+
+https://www.cs.wmich.edu/~gupta/teaching/cs603/wsnSp04/ClassPolicies.html
+<pageBody>
+CS 603- Wireless Sensor Systems - Spring 2004
+Class Policies
+Instructor:
+     Dr. Ajay K. Gupta
+Office:
+     B-239, CEAS, Parkview Campus (276-3104)
+Office hrs:
+     2:00pm - 3:00 pm Tuesdays, Thursdays and by Appointment
+Web Contact:
+     http://www.cs.wmich.edu/gupta/teaching/cs603/wsnSp04/index.html
+     E-mail :ajay.gupta@wmich.edu
+Timings and Room:
+     T R 11:00am - 12:15pm, CEAS C0136, Call # 61008
+Texts:
+	•	Wireless Sensor Networks - Architectures and Protocols by Edgar H.Callaway Jr.,Auerbach Publications, 2004, ISBN 0-8493-1823-8
+	•	TinyOS documentation
+	•	NS-2 documentation
+	•	Opnet material
+	•	In addition, we will refer to several research papers.
+Additional Recommended Texts:
+	•	Wireless Communications and Networks by William Stalling. Prentice Hall(ISBN 0-13-040864-6), 2002
+	•	Core J2ME Technology and MIDP by John W. Muchow. Prentice Hall / Sun Microsystems Press (ISBN 0-13-066911-3), 2002
+Prerequisites:
+	•	Strong desire, self-motivation & dedication to learn & contribute to the emerging area of smart sensor networks
+	•	Proficient in C, C++ and Java (especially network programming)
+	•	Low-level, systems programming and Linux programming experience
+	•	Some mathematics and statistics background
+	•	Permission of the instructor
+Grading:
+     During the term there will be one examination, a number of pop-quizzes, class presentations, and a semester long project. In addition, there will be assignments outside of class, programming and written. These components will carry the following weights in computing an overall average (if less homework is given its weightage may be transferred to project):
+	•	Exam 25%
+	•	Project 35%
+	•	Presentations 10%
+	•	In-Class Pop-quizzes 10%
+	•	Home Work 20%
+     The following minimum averages are required to guarantee the indicated grade. While the scale may be changed slightly, it will be changed to your benefit. A - 90; BA - 85; B - 80; CB - 75; C - 70; DC - 65; D- 60.
+     Incomplete grades Please note that the incomplete grade - 'I' is intended for the students who has missed a relatively small portion of work due to circumstances beyond his/her control. In general, performance on work done must be at a level of C or better in order to qualify for an incomplete. An I grade will not be given to replace a low or failing grade in a class.
+Minimum Passing Requirement:
+     No student will pass the course without doing each of the homework, programming assignments, pop quizzes and project satisfactorily.
+Class Policies:
+     In general, there will be NO make ups for the exams. If you miss an exam for a VALID reason, then arrangements may be made on an individual basis. Home works and programs are to be submitted at the class time on the due date. There will be a late penalty of 10% per day including weekends. Home works and programs will not be graded after 10 days including weekends (unless prior arrangement is made because of illness etc.) All home works and programs should be turned in, however, to pass the course. Confirmed cheating on an exam will result in an automatic E for the course. All programming and homework assignments are to be completed individually. Collaboration on the programming and homework assignments is also considered cheating. Identical programs, look-alike, or obvious joint efforts will result in an E grade for all involved. Note that it is your responsibility to protect your work so that others will not copy it.
+Dropping of Class:
+      The last day to drop classes is January 9, 2004, 5:00pm (100% refund) and March 15, 2004, 5:00pm (without academic penalty).
+Course Objectives:
+     This is a challenging 3 credit hour advance graduate level research topics course, intended for students who plan to pursue research, design and development concerning the exciting and upcoming area of sensor network systems. This class will focus on the nature of computation and communication needed to design large-scale distributed smart sensor networks. The course will cover two fronts: introduce students to the diverse literature on sensor network computing, and expose them to the fundamental issues in designing and analyzing sensor network information processing applications. We will study emerging technology and standards, by reading papers on topics ranging from networking, language and OS support to algorithms for coordination, important constraints in scaling and deploying sensor network systems, and pervasive computing. Students will be exposed to the topics of querying, data routing, and network self-organization and how they can support high-level information processing tasks. This semester’s focus will be on systems and applications development. In particular, the following two main objectives will be achieved: (a) indepth reading of a topic from the list given below resulting in a submission of a technical report readable by non-experts, and (b) indepth understanding of tinyOS, a prominent application development environment for sensor systems using motes.
+Topics for the first objective: Sensor Hardware, Wireless Communications/Radio Characteristics, MAC Protocols, Routing/Data Dissemination, Operating Systems, Energy Conservation, Data Management/Storage/Compression/Aggregation, Security, Applications, Localization/Topology Discovery/Coverage, Collaborative Signal Processing, Application Development, Simulation 
+This course requires active and serious student participation in a semester-long group project. Groups of no more than two students will be responsible for one or more aspects of the design and development of a sensor network system. The group project is intended to complement the reading material by allowing the students to develop experimental skills for network and real-time operating system programming. Each group will have an opportunity to present its work to the class and to the department.
+
+Topics of interest:
+• Driving applications, constraints/challenges, collaborative information processing in sensor nets • Wireless and wired networking issues for sensor nets • Networking for sensor nets: directed diffusion, aggregation • Network discovery/initialization, location/time services  • Networking for sensor nets: routing, large-scale analysis, power-aware computing and communication  • Localization and tracking; self-configuration/organization • Information management: geometric querying, mobile clustering, leader election, kinetic data structure • Physical constraints, power and other resources, resource management • Tools, hw/sw Platforms: TinyOS, eCOS, RTOS, Motes, iBadges, Embedded PCs, Simulators • Pervasive and amorphous computing
+This course is intended for graduate students who have good basic background in computer networks and who have good programming (Java, C++, C) skills. Students will use the following software tools: ns-2, OPNET, tcl/tk, TinyOS, NesC, and eCOS.
+Additional Reading:
+     A number of textbooks on mobile computing, mobile systems, sensors, sensor applications, wireless communications and networks containing relevant material of this course have been published or are about to be published. The course will cover material from these books as well as material from research papers.
+Academic Honesty:
+     The following has been distributed by the Western Michigan Faculty Senate: You are responsible for making yourself aware of and understanding the policies and procedures in the undergraduate (pp. 268-270) [Graduate (pp. 24-26)] Catalog that pertain to Academic Integrity. These policies include cheating, fabrication, falsification and forgery, multiple submission, plagiarism, complicity and computer misuse. If there is reason to believe you have been involved in academic dishonesty, you will be referred to the office of student judicial affairs. You will be given the opportunity to review the charges. If you believe you are not responsible, you will have the opportunity for a hearing. You should consult with me if you are uncertain about an issue of academic honesty prior to the submission of an assignment or test.
+In this course, you are expected to submit only your work for credit or exams, unless a project or activity has been made to groups, in which case the group is to submit only work done by members of the group. Unless otherwise told, you may not bring aids to exam. Submission of another person's work as your own in part or whole is not permitted and can result in a failing grade for the class. Learning can certainly occur with discussion of class material and assignments with other students, but take care that you don't represent the work of another as your own. If you are copying portions of someone else's work, either by hand or electronically, you are going too far. If two or more people are working so closely together that the outcomes, particularly computer programs, are essentially line by line the same, you are going too far. If you are found responsible for academic dishonesty under the University policy, you will receive a failing grade in the class.
+Additional Note: Easy availability of information, material, source codes, lecture notes etc on the Internet may make it possible to find solutions to your assignments on the Internet or elsewhere. It is okay to refer to those, understand them and use them to enhance your solutions, generate your own ideas etc. However, you must give proper and full credit to original authors of the work, if you include their ideas and/or solutions. Failing to do so is part of academic and professional dishonesty. It will not be tolerated in this class. Do not give in to temptations..
+<endPageBody>
+
+
+
+https://cs.wmich.edu/elise/courses/cs531/assignments-SI19.html
+<pageBody>
+
+CS 5310 (Summer I 2019)
+ 
+ 
+Assignments
+ 
+[ home ] [ syllabus ] [ class policy ] [ references ] [ projects ] [ assignments ] [ sample assignments ]
+ 
+
+Assignment 1. Asymptotic notation, performance analysis.  Due: 05/15/19, hard copy of everything, and programs also by email. Exercises (prove all claims): HSR book, Ch. I Problem set 1.3 Performance analysis: p. 59 ## 4, 6 (+ programs for (a) and (b)) [ pdf ]. Neapolitan book, Ch. I Problem set 1.4: pp. 45-48 ## 16, 17 (using definition of Theta), 27 (using limits), 29, 30 (for 29, 30 (b) determine total T(n) using the frequency count for each statement), 32 (determine Theta(T(n)) using Theta order of the frequency count for each statement). [ pdf ]. Additional program: Consider the algorithm 1.25 of HSR for matrix multiplication of two n x n matrices. Obtain running times for a range of values of n (suitable to obtain a nice graph) and plot the times.  Use a clock function with good resolution. Make sure no I/O is included in the timed program section. Discuss your obtained graph. Does it match the expected behavior? An example program that times a loop in C is given here [ time.c ].
+Assignment 2. Recurrence relations, divide and conquer.  Due: 05/29/19 Written assignment: Exercises (prove all claims); calculate the coefficients unless it is stated to obtain the (big O) order only. Neapolitan book pp. 640-642, ## 12(b) (order only), 15(b), 19(d), 24(a) (order only; use the method of the characteristic equation), 25(a) (use the method of the characteristic equation). For 15(b), 19(d) and 25(a), check your solution by substituting it into the original recurrence relation.  Programming part: due by email, + hard copy of report Time and compare the algorithms (from the HSR text) for merge sort and quicksort.
+	•	Measure average time by generating n random data values and calling the two sorts for the same data. Vary n and graph the times T(n) as a function of n for each sort. The range of n should be determined so that it allows to compare the performance of the algorithms.
+	•	To obtain the elapsed time call a timing function within your program, that starts the timer just before and stops it just after the section to be timed. Be sure that there is no I/O in the timed section.
+	•	To obtain accurate timings T(n), run the program (for a particular n) with the same data in a loop, and divide the total time for the loop by the number of iterations (i.e., take the average time per iteration); this will give you one data point as the time T(n) in your graph.
+	•	To check if your program sorts correctly, also output the sequence of points to be sorted as well as the sorted sequence (with each sort) for n = 10 only.
+	•	On linux or mac use "script" to generate a "typescript" file showing your compilation and execution with output of the program. Otherwise add another type of log file or screenshots to show these.
+	•	Submit your program, input and output for small (n = 10) runs, and report describing the methods used (including random number generator, data range used, timing function and its precision). The program should be well-commented and have a description of input and output parameters for each sorting function. Your report should further contain your plots and a discussion of the results, also comparing your observations to the theoretical time complexity.
+Extra credit: Include randomized quicksort in your comparisons (program and report). 
+Assignment 3-4. Dynamic Programming, String editing  Due: 06/17/19. HSR book, Ch. 5, Section String Editing: Transform string X = x1 x2 ... xn into Y = y1 y2 ... ym  using edit operations of I (Insert), D (Delete) and C (Change).  Written assignment: Exercises #1 (show and explain all steps),  #2 (string editing algorithm pseudocode),  #3 (give pseudocode for modified algorithm that produces the decision sequence of I/D/C that transforms X into Y; determine the time complexity of the algorithm). The algorithms should compute the cost table, final cost(n,m), and the modified algorithm should also generate the decision sequence. Note: Use the costs of 1, 1 and 2 for I (Insert), D (Delete) and C (Change), respectively. In the algorithm, C(xi,yj) is applied with cost 2 if xi is not equal to yj;  if xi equals yj then the cost C(xi,yj) = 0.  Programming assignment: Implement the algorithms of exercises 2 and 3.  Test your programs using the examples of the text, exercise #1 and the files below. Read in your test data from a file.  Follow the same guidelines as for Assignment 2 regarding what to submit, report, etc. Show final cost(n,m) for all tests; show input sequences, matrix and decision sequence only when the input sequences are of length <= 100.  Test files (each file contains two sequences): [ simulated DNA sequences lengths 8, 5 ] [ random/simulated DNA sequences length 10 ] [ random/simulated DNA sequences length 600 ] [ random/simulated DNA sequences length 1000 ] [ homologous protein sequences lengths 100 and 60 ] (the protein sequences sample is from [ site ] ).
+Assignment 5. Backtracking  Programming assignment due: 06/26/19.
+	1	HSR text Exercises n-Queens ##1, 2.
+	2	Make a timing graph Time vs. n. Include graph and observations in your report.
+	3	Extra credit: Implement the Estimate() algorithm for estimating the number of nodes in the tree. Keep track of the actual number of nodes generated in Ex. #2, and compare to the estimated number.
+ 
+
+[ home ] [ syllabus ] [ class policy ] [ references ] [ projects ] [ assignments ] [ sample assignments ]
+<endPageBody>
+
+
+https://cs.wmich.edu/~alfuqaha/Spring06/cs5550/projects.html
+<pageBody>
+Term Project
+CS 5550: Computer Networks
+ 
+The project is a semester-long effort that is performed individually or in groups. The goal is to introduce you to networking research and state-of-the-art networking technologies, protocols, and architectures. Typically, projects fall into three categories:
+1.        Survey projects: In which students conduct in-depth literature review of a specific subject pertaining to computer/telecommunication networks. These projects should point the different solutions proposed in the literature to handle the surveyed subject and the tradeoff between these solutions.
+2.        Implementation projects: In which students conduct a brief literature review of a specific subject (e.g., protocol) and then build a system to test, demonstrate, or evaluate some features.
+3.       Simulation projects: In which students conduct a brief literature review of a specific subject (e.g., protocol), propose changes, and then perform analytical/simulation studies to study the performance implications of the proposed changes.
+ 
+Project Grading* (20 points Max.):
+Checkpoint                                                                                                      5
+Final Documented Software & Report                                                       10
+Demo and Presentation                                                                                 5
+ 
+Deliverables:
+1.       Proposal
+·         Due date: Thursday, January 26th (in class).
+·         Length: 1-2 pages.
+·         Format: Typed using word processing software (e.g., MS-word) or document processing software (e.g., LaTeX).
+·         Content: Member names and email addresses, project title, idea, goal, general architecture, used technologies, references, to-do list. Notice that the list should specify the tasks to be completed before and after the checkpoint. The following is a sample entry in the TO-DO list:
+ 
+Tasks
+Description
+People (Effort)
+Date (start-finish)
+Literature Review
+Investigate the Java technologies and various APIs available to implement the project.
+Bob Someone
+Jan 14-Jan 21
+ 
+·         Note1: The project TO-DO list should be presented in a table format. The list should specify the project tasks, people involved in each task, and the date to complete each task.
+·          Note2: You are strongly encouraged to discuss your ideas with the professor to make sure that your idea is good and that different people are not working on the same stuff.
+2.       Checkpoint
+·         Due date: Thursday, March 9th (in class).
+·         Length: 2-3 pages.
+·         Format: Typed using word processing software (e.g., MS-word) or document processing software (e.g., LaTeX).
+·         Content: Describe the progress accomplished so far against the to-do list in the proposal (itemized check in table format). Also, the report should address the detailed software architecture, overview of used technologies, and high-level design of the various software modules.
+·         Note: You are strongly encouraged to keep discussing your ideas with the professor to get feedback about the work and suggestions on how to progress.
+
+3.       Presentation & Demo:
+·         Date: Thursday, April 20th (in class).
+·         Duration: 10-15 minutes.
+·         Content: Present your work emphasizing your implementations, used technologies, contributions, and the tradeoffs between the studied approaches.
+ 
+4.       Final Report
+·         Due date: Thursday, April 20th (in class).
+·         Length: 3-4 pages.
+·         Format: Provide one hardcopy and one softcopy of all work completed throughout the semester. The final report should be typed using word processing software (e.g., MS-Word) or document processing software (e.g., LaTeX). The report should comply with the IEEE transactions format. Microsoft word template or LaTeX style files can be found at the following URLs:
+ 
+ 
+Instructions
+http://www.ieee.org/portal/cms_docs/pubs/transactions/TRANS-JOUR.PDF
+ 
+MS-Word
+Template File:
+http://www.ieee.org/portal/cms_docs/pubs/transactions/TRANS-JOUR.DOC
+ 
+LaTeX
+(PC/Mac)
+Style File:
+http://www.ieee.org/portal/cms_docs/pubs/transactions/IEEEtran.zip
+ 
+Bibliography Style File:
+http://www.ieee.org/portal/cms_docs/pubs/transactions/IEEEtranBST.zip
+ 
+LaTeX
+(Unix)
+Style File:
+http://www.ieee.org/portal/cms_docs/pubs/transactions/IEEEtran.tar.gz
+ 
+Bibliography Style File:
+http://www.ieee.org/portal/cms_docs/pubs/transactions/IEEEtranBST.tar.gz
+ 
+ 
+ 
+·         Content: Complete report (with citations and references) documenting all the work completed in the project (software architecture, used technologies, brief review of the different technologies used in the project, software design, etc.). All parameters, values, graphs, etc., must be clearly labeled and identified.
+ 
+1.       Software
+·         Due date: Thursday, April 20th.
+·         E-mail your implementation and final report in a single ZIP file attachment.
+·         Format: Software MUST be clearly documented, commented, and indented.
+ 
+TIPS:
+·         Reading a brief tutorial about Java Design Patterns before you start your implementation can very helpful (http://www.stardeveloper.com/articles/display.html?article=2004022804&page=1)
+·         Do not jump into coding without design.
+·         Build clean development (J2SE, j2EE, j2ME, .NET, IDE, etc.) and deployment (tomcat, apache, SUN Java System Application Server) environments for your application. Use “ant” or “make” files.
+·         Research the technologies that you will use more and read tutorials about it before you jump into coding.
+·         It is always a good idea to start with a very small prototype for your application.
+ 
+ 
+ CS 5550 – Computer Networks
+Sample Term Projects
+ 
+1.        Overview of VoiceXML.
+2.        Overview of Voice Over IP (VoIP) protocols (e.g., SIP vs. H.323).
+3.        Overview of Peer-to-Peer Networks (e.g., KaZaA, Gnutella, BitTorrent, Napster).
+4.        Overview of Intrusion Detection and Protection Systems (e.g., snort).
+5.        Overview of Honeypot security.
+6.        Overview of site-to-site and remote access Virtual Private Networks (VPNs).
+7.        Overview of the IPSec protocol ftramework (IPSec protocol, Encryption, Authentication, and Diffie-Hellman).
+8.        Overview of Linux Firewalls Using iptables.
+9.        Routing in Wireless Ad-Hoc Networks.
+10.     Border Gateway Protocol.
+11.     Wireless Access Protocol (WAP).
+12.     Real-Time Streaming Protocol.
+13.     WiMax (IEEE802.16).
+14.     Global System for Mobile Communications (GSM), GPRS, EDGE.
+15.     Comparison between 3G and 4G Wireless Systems.
+16.     Code Division Multiple Access (CDMA).
+17.     Optical Burst Switching.
+18.     Optical Wavelength Switching.
+19.     Optical Packet Switching.
+20.     Multiprotocol Label Switching (MPLS).
+21.  Write a computer program (e.g., using SimJava) that simulates a simple packet queue. Packet queues are usually installed in router output ports to resolve contention for limited capacity links. The source is assumed to follow the ON/OFF traffic model. The ON and OFF periods are assumed to be exponentially distributed with parameters a (i.e., mean ON period) and b (i.e., mean OFF period) respectively.
+ 
+The simulation program requests the following data from the user:
+ 
+	•	The parameters of the source, namely, the average bit rate m required by the source, the source burstiness beta, the average IP packet length, and the average length of a burst B expressed in IP packets.
+	•	The maximum queue size in bits.
+	•	The bit rate of the communication channel servicing the traffic source.
+ 
+The simulation program produces the following performance metrics:
+	•	The probability of packet loss.
+	•	The channel utilization.
+	•	The average packet delay.
+	•	The average queue length.
+	•	The longest burst length in IP packets.
+	•	 The average time between two consecutive packet losses.
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+* Exceptionally excellent projects can get up to 10 extra points.
+<endPageBody>
+
+
+
+https://wmich.edu/you.html
+<pageBody>
+YOU at Western
+		HOME
+		FACULTY AND STAFF
+
+	•	YOU at Western is a personalized web portal connecting students to online tools and campus resources to help support their goals to Succeed, Thrive and Matter at WMU. The innovative digital tool promotes self-reflection, allowing students to be more proactive with their health and well-being in order to make the most of their college experience.     
+	•	Launch YOU at Western 
+
+An overview of YOU
+YOU at Western allows students to complete brief assessments and create their profile in order to customize content. Users can set goals and check them off once completed, peruse useful and relatable content as-is, or search for something specific.
+Using the portal, students can explore their strengths and areas for growth across three domains:
+	•	  Succeed  Academics / Career   
+	•	  Thrive  Physical / Mental Health   
+	•	  Matter  Purpose / Community / Social   
+
+Additional Information
+Log in and Student Anonymity
+Students log in through their GoWMU account or directly at: YOU.wmich.edu and use their BroncoNetID to create an account.
+When students opt-in to use YOU at Western, the platform collects basic user information (name, email address, etc.). This information is collected to allow the platform to enable secure access and personalized resources for individual users. In addition, YOU at Western collects product usage data (clicks, time spent on the site, search terms, etc.) each time a student uses the platform.
+However, YOU at Western’s comprehensive privacy defenses protect this information from risk. Wow! For example:
+	•	Data like names and email addresses are always encrypted to protect the student’s identity.
+	•	We restrict our team’s access to student data, limiting access of confidential information to only key development staff.
+	•	YOU at Western analytics use aggregate data and prevents displaying small results sizes.
+	•	Finally, no YOU at Western information is ever sold to any outside third party.
+AUDIENCES
+		Alumni and Donors
+		Businesses
+		Veterans
+LOCATIONS
+		Kalamazoo
+		Regional Locations
+		Online Education
+		Cooley Law School
+		Stryker School of Medicine
+SERVICES
+		Campus Safety Information and Resources
+		Human Resources
+		Maps
+		Parking
+Western Michigan University Kalamazoo MI 49008-5200 USA (269) 387-1000 Contact WMU
+WMU Notice of Non-Discrimination Land Acknowledgment Statement
+<endPageBody>
+
